@@ -1,0 +1,9 @@
+gato:cat
+perro:dog
+mesa:table
+lunes:monday
+silla:chair
+personas:people
+persona:person
+nube:cloud
+
